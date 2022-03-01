@@ -1,2 +1,2 @@
-# Linguagens De Programação
- Site que fala sobre várias linguagens de programação.
+# Grid Layout e Flexbox
+ Site voltado para a aprendizagem de Grid Layout e Flexbox.
