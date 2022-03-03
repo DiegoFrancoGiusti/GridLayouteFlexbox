@@ -25,6 +25,13 @@ hr{
     padding: 3px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+ 
+:target {
+  scroll-margin-top: .8em;
+}
 /*HEADER*/
 .header{
     background: #1d1e20;
